@@ -1,6 +1,6 @@
 # Description
 
-A task management system that Store tasks with title, description, status (pending/completed), priority (low/medium/high)
+A task management system that Store tasks with title, description, status (pending/completed), priority (low/medium/high) with redis cache integration
 
 ## Setup Instructions 
 
